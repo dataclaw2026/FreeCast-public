@@ -1,0 +1,17 @@
+{
+  "version": "1.2.1",
+  "tv": "FreeCast-tv-v1.2.1-universal.apk",
+  "tv_abi": {
+    "arm64-v8a": "FreeCast-tv-v1.2.1-arm64.apk",
+    "armeabi-v7a": "FreeCast-tv-v1.2.1-armv7.apk",
+    "x86": "FreeCast-tv-v1.2.1-x86.apk",
+    "x86_64": "FreeCast-tv-v1.2.1-x64.apk"
+  },
+  "phone": "FreeCast-phone-v1.2.1-universal.apk",
+  "phone_abi": {
+    "arm64-v8a": "FreeCast-phone-v1.2.1-arm64.apk",
+    "armeabi-v7a": "FreeCast-phone-v1.2.1-armv7.apk"
+  },
+  "pc": "https://github.com/dataclaw2026/FreeCast-public/releases/download/v1.2.1/FreeCast-pc-v1.2.1-win10-11.zip",
+  "pc_light": "FreeCast-pc-v1.2.1.zip"
+}
